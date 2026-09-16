@@ -38,7 +38,3 @@ Desktop.ini
 *.bak
 *.swp
 *~
-
-# Unzipped lecture folders (keep only .zip)
-lecture_*/
-
